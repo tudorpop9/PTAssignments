@@ -1,0 +1,1 @@
+Bill: [Nr: 1, Client: ''Raul'', Email:''raul@mail.com''. Product:''Lapte'' Quantity:4, Total: 16lei ] 
